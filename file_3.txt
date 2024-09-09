@@ -1,4 +1,0 @@
-# patch-rover
-Commit 4
-Date: 2024-08-12T08:40:39Z
-Refactor helpers
