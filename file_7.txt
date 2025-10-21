@@ -1,4 +1,0 @@
-# patch-rover
-Commit 8
-Date: 2025-07-02T04:22:18Z
-Add documentation
